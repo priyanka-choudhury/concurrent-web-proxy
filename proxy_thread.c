@@ -1,5 +1,4 @@
-/*
- * A Concurrent Web Proxy (Threaded Version)
+/* A Concurrent Web Proxy (Threaded Version)
  *
  * This multithreaded web proxy handles requests from multiple clients simultaneously.
  * When the proxy receives a connection request from a client, it accepts the connection,
